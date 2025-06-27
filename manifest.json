@@ -1,0 +1,12 @@
+{
+  "name": "Chrome Extension Template",
+  "description": "A modern Chrome extension template (Manifest V3).",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Chrome Extension Template",
+    "default_popup": "popup.html"
+  },
+  "permissions": [],
+  "host_permissions": []
+}
