@@ -1,7 +1,5 @@
 # Chrome Extension Template
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-
 A modern and robust Chrome extension template designed for rapid development using **Manifest V3**, **React 18**, **TypeScript 5**, and **Vite 5**. This template provides a solid foundation for building high-performance and scalable Chrome extensions.
 
 ## Features

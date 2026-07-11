@@ -2,7 +2,6 @@
   "name": "chrome-extension-template",
   "version": "1.0.0",
   "description": "A modern Chrome extension template (Manifest V3).",
-  "author": "@",
   "license": "MIT",
   "repository": {
     "type": "git",
